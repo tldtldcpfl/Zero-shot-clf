@@ -1,6 +1,6 @@
 # Zero-shot-clf
 
-- Zero-shot classificatin aims to classify
+- Zero-shot classificatin aims to classify text from both previously seen classes and emerging unseen classes. 
 
 
 
